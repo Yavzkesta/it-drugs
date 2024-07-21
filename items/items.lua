@@ -1,6 +1,6 @@
 watering_can = {
     name = "watering_can",
-    label = 'Watering can',
+    label = 'Arrosoir',
     weight = 500,
     type = 'item',
     image = "watering_can.png",
@@ -8,12 +8,12 @@ watering_can = {
     useable = false,
     shouldClose = false,
     combinable = nil,
-    description = 'simple watering can'
+    description = 'Arrosoir simple'
 },
 
 fertilizer = {
     name = 'fertilizer',
-    label = 'fertilizer',
+    label = 'Engrais',
     weight = 500,
     type = 'item',
     image = 'fertilizer.png',
@@ -21,12 +21,12 @@ fertilizer = {
     useable = false,
     shouldClose = false,
     combinable = nil,
-    description = 'fertilizer'
+    description = 'Engrais'
 },
 
 advanced_fertilizer = {
     name = 'advanced_fertilizer',
-    label = 'Advanced Fertilizer',
+    label = 'Engrais Avancé',
     weight = 500,
     type = 'item',
     image = 'advanced_fertilizer.png',
@@ -34,12 +34,12 @@ advanced_fertilizer = {
     useable = false,
     shouldClose = false,
     combinable = nil,
-    description = 'Fertilizer with the litte extra'
+    description = 'Engrais avec un petit extra'
 },
 
 liquid_fertilizer = {
     name = "liquid_fertilizer",
-    label = 'Liquid Fertilizer',
+    label = 'Engrais Liquide',
     weight = 200,
     type = 'item',
     image = "liquid_fertilizer.png",
@@ -47,12 +47,12 @@ liquid_fertilizer = {
     useable = false,
     shouldClose = false,
     combinable = nil,
-    description = 'Basicly Water with nutrations'
+    description = 'Essentiellement de l\'eau avec des nutriments'
 },
 
 weed_lemonhaze_seed = {
     name = 'weed_lemonhaze_seed',
-    label = 'Weed Lemonhaze Seed',
+    label = 'Graine de Weed Lemonhaze',
     weight = 20,
     type = 'item', 		
     image = 'weed_lemonhaze_seed.png', 		
@@ -60,12 +60,12 @@ weed_lemonhaze_seed = {
     useable = true, 	
     shouldClose = true,	    
     combinable = nil,   
-    description = 'Weed Lemonhaze Seed'
+    description = 'Graine de Weed Lemonhaze'
 },
 
 weed_lemonhaze = {
     name = 'weed_lemonhaze',
-    label = 'weed lemonhaze',
+    label = 'Weed Lemonhaze',
     weight = 20,
     type = 'item',
     image = 'weed_lemonhaze.png',
@@ -78,7 +78,7 @@ weed_lemonhaze = {
 
 coca_seed = {
     name = 'coca_seed',
-    label = 'coca seed',
+    label = 'Graine de Coca',
     weight = 20,
     type = 'item',
     image = 'coca_seed.png',
@@ -86,12 +86,12 @@ coca_seed = {
     useable = true,
     shouldClose = true,
     combinable = nil,
-    description = 'Coca Seed'
+    description = 'Graine de Coca'
 },
 
 coca = {
     name = 'coca',
-    label = 'coca',
+    label = 'Coca',
     weight = 20,
     type = 'item',
     image = 'coca.png',
@@ -104,7 +104,7 @@ coca = {
 
 paper = {
     name = 'paper',
-    label = 'paper',
+    label = 'Papier',
     weight = 50,
     type = 'item',
     image = 'paper.png',
@@ -112,12 +112,12 @@ paper = {
     useable = false,
     shouldClose = false,
     combinable = nil,
-    description = 'Paper'
+    description = 'Papier'
 },
 
 nitrous = {
     name = 'nitrous',
-    label = 'nitrous',
+    label = 'Nitrous',
     weight = 500,
     type = 'item',
     image = 'nitrous.png',
@@ -125,12 +125,12 @@ nitrous = {
     useable = false,
     shouldClose = false,
     combinable = nil,
-    description = 'nitrous'
-    },
+    description = 'Nitrous'
+},
 
 cocaine = {
     name = 'cocaine',
-    label = 'cocaine',
+    label = 'Cocaïne',
     weight = 20,
     type = 'item',
     image = 'cocaine.png',
@@ -138,12 +138,12 @@ cocaine = {
     useable = true,
     shouldClose = false,
     combinable = nil,
-    description = 'Small bag of cocaine'
-    },
+    description = 'Petit sac de cocaïne'
+},
 
 joint = {
     name = 'joint',
-    label = 'joint',
+    label = 'Joint',
     weight = 10,
     type = 'item',
     image = 'joint.png',
@@ -151,12 +151,12 @@ joint = {
     useable = true,
     shouldClose = true,
     combinable = nil,
-    description = 'joint'
+    description = 'Joint'
 },
 
 weed_processing_table = {
     name = 'weed_processing_table',
-    label = 'Weed processing table',
+    label = 'Table de traitement de la Weed',
     weight = 1000,
     type = 'item',
     image = 'weed_processing_table.png',
@@ -164,12 +164,12 @@ weed_processing_table = {
     useable = true,
     shouldClose = true,
     combinable = nil,
-    description = 'Process some weed'
+    description = 'Traitez de la weed'
 },
 
 cocaine_processing_table = {
     name = 'cocaine_processing_table',
-    label = 'cocaine processing table',
+    label = 'Table de traitement de la cocaïne',
     weight = 1000,
     type = 'item',
     image = 'cocaine_processing_table.png',
@@ -177,5 +177,5 @@ cocaine_processing_table = {
     useable = true,
     shouldClose = true,
     combinable = nil,
-    description = 'Process some cocaine'
-},
+    description = 'Traitez de la cocaïne'
+}
